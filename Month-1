@@ -1,0 +1,34 @@
+## Matthew's Software Engineering Worklog - Month 1
+
+## Summary of What I Worked On
+This first month was all about building the foundational toolkit for a software engineer. I immersed myself in core concepts and essential tools.
+
+- Mastered the fundamentals of ** Git** for version control, including committing, branching, and merging.
+
+- Learned to use **GitHub** to host repositories and collaborate remotely.
+
+- Started my journey with **Python**
+
+- Gained proficiency in using the Terminal/Command Line on Windows, MacOS, and Linux to navigate file systems and execute commands.
+
+## My Achievements
+- Project "Hello World" & Beyond: Successfully created my first Python scripts, from a simple "Hello World" to a basic calculator.
+
+- Version Control Pro: Created my first GitHub repository and used Git to track all changes to my project files.
+- I practiced creating feature branches and merging them back into the main branch without conflicts.
+
+- Terminal Power User: I can now comfortably navigate through directories, create, move, and delete files, and run Python scripts entirely from the command line without relying on a graphical interface.
+
+## Learnings from Failures or Challenges
+- I accidentally used git push --force on a shared branch and overwrote a peer's work. Learning: I now deeply understand the difference between git merge and git rebase and the dangers of a force push. I learned to always pull the latest changes and communicate before rewriting history on a shared branch.
+
+- The Indentation Error (Python): Spent an hour debugging a script because of a single mixed tab and space. Learning: Python is strict about whitespace. I configured my code editor to automatically convert tabs to spaces, preventing this entire class of errors.
+
+## Monthly Highlights
+The moment when Git branching finally clicked and I understood how it enables parallel development.
+
+Successfully building a complete, working program (the number-guessing game) from scratch using Python. It was incredibly satisfying to see my code come to life.
+
+Helping a peer solve a tricky Git merge conflict. Teaching them how to resolve it solidified my own understanding and felt great.
+
+Realizing that the terminal is not a scary, black screen but a powerful tool that gives me precise control over my computer.
